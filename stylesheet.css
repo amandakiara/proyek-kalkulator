@@ -12,6 +12,14 @@ body{
     align-items: center;
 }
 
+.heading{
+    height: 100vh;
+    margin: 0;
+    padding: 15px;
+    font-size: 20px;
+    
+}
+
 .calculator{
     width: 25%;
     border-radius: 10px;
